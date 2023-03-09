@@ -1,0 +1,21 @@
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{Preface}{iii}{chapter*.1}%
+\contentsline {chapter}{List of Papers}{v}{chapter*.3}%
+\contentsline {chapter}{Contents}{vii}{section*.8}%
+\contentsline {chapter}{List of Figures}{ix}{section*.9}%
+\contentsline {chapter}{List of Tables}{xi}{section*.10}%
+\contentsline {chapter}{\chapternumberline {1}Introduction}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Figures and Tables}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Summary of Papers}{4}{section.1.2}%
+\contentsline {chapter}{Papers}{6}{section*.13}%
+\contentsline {chapter}{\chapternumberline {I}Convolutional Neural Networks as Support Tools for Spinocerebellar Ataxia Detection from Magnetic Resonances}{7}{chapter.papter.1}%
+\contentsline {chapter}{\chapternumberline {II}Detecting cerebellar fissures with convolutional neural networks}{23}{chapter.papter.2}%
+\contentsline {chapter}{\chapternumberline {III}Convolutional Neural Networks for Segmenting Cerebellar Fissures from Magnetic Resonance Imaging}{31}{chapter.papter.3}%
+\contentsline {chapter}{\chapternumberline {IV}ConvNets for automatic detection of polyglutamine SCAs from brain MRIs: state of the art applications}{53}{chapter.papter.4}%
+\contentsline {chapter}{Appendices}{79}{section*.14}%
+\contentsline {chapter}{\chapternumberline {A}The First Appendix}{81}{appendix.1}%
+\contentsline {section}{\numberline {A.1}First Section}{81}{section.1.1}%
+\contentsline {section}{\numberline {A.2}Second Section}{82}{section.1.2}%
+\contentsline {chapter}{\chapternumberline {B}Source Code}{83}{appendix.2}%
+\contentsline {section}{\numberline {B.1}Implementation}{83}{section.2.1}%
+\contentsfinish 
